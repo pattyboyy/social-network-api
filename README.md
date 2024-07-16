@@ -4,9 +4,9 @@
 
 This project is a RESTful API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, MongoDB as the database, and Mongoose as the ODM (Object Document Mapper).
 
-## Insomnia Tests Video
+## Insomnia Demo Video
 
-
+![Demo](/Users/patrickriedinger/Documents/GitHub/social-network-api/gifs/insomniaGIF.gif)
 
 ## Table of Contents
 
