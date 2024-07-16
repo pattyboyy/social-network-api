@@ -6,7 +6,7 @@ This project is a RESTful API for a social network web application where users c
 
 ## Insomnia Demo Video
 
-![Demo](/Users/patrickriedinger/Documents/GitHub/social-network-api/gifs/insomniaGIF.gif)
+
 
 ## Table of Contents
 
