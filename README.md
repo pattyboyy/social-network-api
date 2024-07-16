@@ -6,7 +6,7 @@ This project is a RESTful API for a social network web application where users c
 
 ## Insomnia Demo Video
 
-
+![Demo](assets/social-network-api-ezgif.com-video-to-gif-converter.gif)
 
 ## Table of Contents
 
